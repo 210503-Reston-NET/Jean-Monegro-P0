@@ -1,0 +1,5 @@
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\StoresUI\obj\Debug\net5.0\StoresUI.csprojAssemblyReference.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\StoresUI\obj\Debug\net5.0\StoresUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\StoresUI\obj\Debug\net5.0\StoresUI.AssemblyInfoInputs.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\StoresUI\obj\Debug\net5.0\StoresUI.AssemblyInfo.cs
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\StoresUI\obj\Debug\net5.0\StoresUI.csproj.CoreCompileInputs.cache

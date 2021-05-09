@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "StoreModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/StoreModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/StoreModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StoreModels/1.0.0": {
+      "type": "project",
+      "path": "../StoreModels/StoreModels.csproj",
+      "msbuildProject": "../StoreModels/StoreModels.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "StoreModels >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Jean\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\StoresUI\\StoresUI.csproj",
+      "projectName": "StoresUI",
+      "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\StoresUI\\StoresUI.csproj",
+      "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
+      "outputPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\StoresUI\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Jean\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\StoreModels\\StoreModels.csproj": {
+              "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\StoreModels\\StoreModels.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
