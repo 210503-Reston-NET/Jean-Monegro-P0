@@ -1,0 +1,16 @@
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\bin\Debug\net5.0\ProjectP0.exe
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\bin\Debug\net5.0\ProjectP0.deps.json
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\bin\Debug\net5.0\ProjectP0.runtimeconfig.json
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\bin\Debug\net5.0\ProjectP0.runtimeconfig.dev.json
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\bin\Debug\net5.0\ProjectP0.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\bin\Debug\net5.0\ref\ProjectP0.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\bin\Debug\net5.0\ProjectP0.pdb
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ProjectP0.csprojAssemblyReference.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ProjectP0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ProjectP0.AssemblyInfoInputs.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ProjectP0.AssemblyInfo.cs
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ProjectP0.csproj.CoreCompileInputs.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ProjectP0.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ref\ProjectP0.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ProjectP0.pdb
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\ProjectP0\obj\Debug\net5.0\ProjectP0.genruntimeconfig.cache
