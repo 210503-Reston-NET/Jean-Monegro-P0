@@ -4,6 +4,8 @@ namespace StoreModels
 {
     public class Store
     {
+        public Product Product;
+
         public Store(string city, string state, string country)
         {
             this.City = city;
@@ -17,5 +19,10 @@ namespace StoreModels
         public string City{get;}
         public string State{get;}
         public string Country{get;}
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }
