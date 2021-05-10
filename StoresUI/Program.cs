@@ -13,7 +13,8 @@ namespace StoresUI
                 Item = "Disc Brakes",
                 Price = 99
             };
-            Console.WriteLine(bikeShop.ToString());
+
+            Console.WriteLine("Bike Shop");
             Console.WriteLine(bikeShop.Product);
         }
     }
