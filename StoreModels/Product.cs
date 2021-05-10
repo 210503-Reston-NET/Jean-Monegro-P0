@@ -4,6 +4,9 @@ namespace StoreModels
 {
     public class Product
     {
+        public Product(){
+            
+        }
         public string Item{get;set;}
         public double Price{get;set;}
 
