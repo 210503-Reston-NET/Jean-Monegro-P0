@@ -5,11 +5,11 @@ namespace StoreModels
     public class Product
     {
         public string Item{get;set;}
-        public string Description{get;set;}
+        public double Price{get;set;}
 
         public override string ToString()
         {
-            return $"\t Item: {Item} \n\t Description: {Description}";
+            return $"\t Item: {Item} \n\t Price: {Price}";
         }
     }
 }

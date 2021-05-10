@@ -11,10 +11,10 @@ namespace StoresUI
             bikeShop.Product = new Product
             {
                 Item = "Disc Brakes",
-                Description = "High quality universal brakes"
+                Price = 99
             };
             Console.WriteLine(bikeShop.ToString());
-            Console.WriteLine("Hello World!");
+            Console.WriteLine(bikeShop.Product);
         }
     }
 }
