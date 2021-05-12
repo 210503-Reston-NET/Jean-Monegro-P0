@@ -1,2 +1,0 @@
-# JEAN-MONEGRO-P0
-Project P0 

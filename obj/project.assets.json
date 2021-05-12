@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\Jean-Monegro-P0.csproj",
-      "projectName": "Jean-Monegro-P0",
-      "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\Jean-Monegro-P0.csproj",
+      "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\PlayGround.csproj",
+      "projectName": "PlayGround",
+      "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\PlayGround.csproj",
       "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
       "outputPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\obj\\",
       "projectStyle": "PackageReference",
