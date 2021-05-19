@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotDL\\CarLotDL.csproj": {}
+    "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotDL\\CarLotDL.csproj": {}
   },
   "projects": {
-    "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotDL\\CarLotDL.csproj": {
+    "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotDL\\CarLotDL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotDL\\CarLotDL.csproj",
+        "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotDL\\CarLotDL.csproj",
         "projectName": "CarLotDL",
-        "projectPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotDL\\CarLotDL.csproj",
+        "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotDL\\CarLotDL.csproj",
         "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotDL\\obj\\",
+        "outputPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotDL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jean\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\CarLotModels.csproj": {
-                "projectPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\CarLotModels.csproj"
+              "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\CarLotModels.csproj": {
+                "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\CarLotModels.csproj"
               }
             }
           }
@@ -78,14 +78,14 @@
         }
       }
     },
-    "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\CarLotModels.csproj": {
+    "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\CarLotModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\CarLotModels.csproj",
+        "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\CarLotModels.csproj",
         "projectName": "CarLotModels",
-        "projectPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\CarLotModels.csproj",
+        "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\CarLotModels.csproj",
         "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\obj\\",
+        "outputPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jean\\AppData\\Roaming\\NuGet\\NuGet.Config"
