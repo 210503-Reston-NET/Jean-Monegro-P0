@@ -14,7 +14,7 @@ namespace CarLotDL.Entities
         public string LastName { get; set; }
         public int Phone { get; set; }
 
-        public virtual Customer customer{get;set;}
+        // public virtual Customer customer{get;set;}
         
 
     }
