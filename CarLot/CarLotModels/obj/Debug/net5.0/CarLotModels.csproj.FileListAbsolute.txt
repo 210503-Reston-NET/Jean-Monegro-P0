@@ -10,3 +10,15 @@ C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\CarLot\CarLotModels\bin\Debug\net
 C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.dll
 C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\CarLot\CarLotModels\obj\Debug\net5.0\ref\CarLotModels.dll
 C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.pdb
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\bin\Debug\net5.0\CarLotModels.deps.json
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\bin\Debug\net5.0\CarLotModels.dll
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\bin\Debug\net5.0\ref\CarLotModels.dll
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\bin\Debug\net5.0\CarLotModels.pdb
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.csprojAssemblyReference.cache
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.AssemblyInfoInputs.cache
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.AssemblyInfo.cs
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.csproj.CoreCompileInputs.cache
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.dll
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\obj\Debug\net5.0\ref\CarLotModels.dll
+C:\Revature\jean-code\1-csharp\New CarLot\CarLot\CarLotModels\obj\Debug\net5.0\CarLotModels.pdb

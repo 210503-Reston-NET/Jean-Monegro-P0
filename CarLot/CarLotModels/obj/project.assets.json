@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\CarLotModels.csproj",
+      "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\CarLotModels.csproj",
       "projectName": "CarLotModels",
-      "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\CarLotModels.csproj",
+      "projectPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\CarLotModels.csproj",
       "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
-      "outputPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\obj\\",
+      "outputPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot\\CarLot\\CarLotModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jean\\AppData\\Roaming\\NuGet\\NuGet.Config"

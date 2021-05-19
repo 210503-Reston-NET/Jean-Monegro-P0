@@ -8,14 +8,14 @@ namespace CarLotModels
         /// This describes the overall numeric rating of a restaurant
         /// </summary>
         /// <value></value>
-        public Description(int year, string mpg)
+        public Description(int mpg, string rating)
         {
-            this.Year = year;
+            this.Rating = rating;
             this.Mpg = Mpg;
         }
         public Description()
         { }
-        public int Year
+        public int Mpg
         {
             get { return _year; }
             set
@@ -32,11 +32,11 @@ namespace CarLotModels
         /// Verbose description of the dining experience
         /// </summary>
         /// <value></value>
-        public string Mpg { get; set; }
+        public string Rating { get; set; }
 
         public override string ToString()
         {
-            return $"\t Rating: {Year} \n\t Description: {Mpg}";
+            return $"\t Rating: {Mpg} \n\t Description: {Rating}";
         }
     }
 }

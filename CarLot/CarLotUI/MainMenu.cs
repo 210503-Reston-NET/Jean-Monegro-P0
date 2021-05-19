@@ -20,46 +20,50 @@ namespace CarLotUI
 
         public void Start(){
             bool repeat = true;
+
+            string Pin = "1111";
+            System.Console.WriteLine("Please Enter pin to continue");
+            string pinInput = System.Console.ReadLine();
             do
             {
-                Console.WriteLine("Welcome to my Car Lot");
-                Console.WriteLine("[0] Add Car");
-                Console.WriteLine("[1] View Car");
-                Console.WriteLine("[2] Exit");
+                if(Pin == pinInput){
+                Console.WriteLine("[0] Add Car to inventory");
+                Console.WriteLine("[1] View inventory");
+                Console.WriteLine("[2] Go Back");
 
                 string input = Console.ReadLine();
                 switch(input)
                 {
                     case "0":
-                        System.Console.WriteLine("Add");
                         AddACar();
                         break;
                     case "1":
-                        System.Console.WriteLine("View");
                         ViewCars();
                         break;
                     case "2":
-                        System.Console.WriteLine("Exit");
                         repeat = false;
                         break;
                     default:
                         System.Console.WriteLine("Enter a valid response");
                         break;
                 }
+                }else if(pinInput != Pin){
+                    System.Console.WriteLine("Wrong Pin");
+                    repeat = false;
+                }
             }while(repeat);
         }
 
         private void AddACar()
         {
-            Console.WriteLine("Enter the details of the restaurant you want to add");
-            string name = _validate.ValidateString("Enter the restaurant name: ");
-            string year = _validate.ValidateString("Enter the city where the restaurant is located");
-            string mpg = _validate.ValidateString("Enter the state where the restaurant is located at");
+            string make = _validate.ValidateString("Enter the vehicle make: ");
+            string model = _validate.ValidateString("Enter the vehicle model: ");
+            int year = _validate.ValidateInt("Enter the vehicle year: ");
             try
             {
-                Car newCar = new Car(name, year, mpg);
+                Car newCar = new Car(make, model, year);
                 Car createdCar = _carBL.AddCar(newCar);
-                Console.WriteLine("New restaurant created!");
+                Console.WriteLine("New Vehicle Created!");
                 Console.WriteLine(createdCar.ToString());
             }
             catch (Exception ex)
@@ -70,7 +74,6 @@ namespace CarLotUI
 
         private void ViewCars()
         {
-            //TODO: Remove the hardcoded restaurant and refer to a stored restaurant that exists
             List<Car> cars = _carBL.GetAllCars();
             if (cars.Count == 0) Console.WriteLine("No restaurants :< You should add some");
             else
