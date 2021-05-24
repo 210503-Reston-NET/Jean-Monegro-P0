@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9TyOWL6Ziqmnc1DhbMFmxD0CBSNPrvv4Tu4N0SUiwvdG5VwMebBNXuwvrexk+EQjrW4ZD5MJboTHmyZjhcsR1Q==",
+  "dgSpecHash": "I4kZhDcOwXd+mfx1u9jNNEk3vMdqBuRNKeMbOuSJIhMk9rNjauGON2AC7TLfAuEm6U4eOadWhKGnTQnyobtJlg==",
   "success": true,
-  "projectFilePath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\CarLot\\CarLotModels\\CarLotModels.csproj",
+  "projectFilePath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\carlot\\CarLotModels\\CarLotModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
