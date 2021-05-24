@@ -52,3 +52,21 @@ C:\Revature\jean-code\1-csharp\New CarLot - Copy\carlot\CarLotDL\obj\Debug\net5.
 C:\Revature\jean-code\1-csharp\New CarLot - Copy\carlot\CarLotDL\obj\Debug\net5.0\ref\CarLotDL.dll
 C:\Revature\jean-code\1-csharp\New CarLot - Copy\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.pdb
 C:\Revature\jean-code\1-csharp\New CarLot - Copy\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.genruntimeconfig.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\bin\Debug\net5.0\CarLotDL.deps.json
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\bin\Debug\net5.0\CarLotDL.runtimeconfig.json
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\bin\Debug\net5.0\CarLotDL.runtimeconfig.dev.json
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\bin\Debug\net5.0\CarLotDL.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\bin\Debug\net5.0\ref\CarLotDL.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\bin\Debug\net5.0\CarLotDL.pdb
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\bin\Debug\net5.0\CarLotModels.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\bin\Debug\net5.0\CarLotModels.pdb
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.csprojAssemblyReference.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.AssemblyInfoInputs.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.AssemblyInfo.cs
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.csproj.CoreCompileInputs.cache
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.csproj.CopyComplete
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\ref\CarLotDL.dll
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.pdb
+C:\Revature\jean-code\1-csharp\Jean-Monegro-P0\New CarLot\carlot\CarLotDL\obj\Debug\net5.0\CarLotDL.genruntimeconfig.cache

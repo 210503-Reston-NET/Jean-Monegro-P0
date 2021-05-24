@@ -8482,11 +8482,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\New CarLot - Copy\\carlot\\CarLotTests\\CarLotTests.csproj",
+      "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotTests\\CarLotTests.csproj",
       "projectName": "CarLotTests",
-      "projectPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot - Copy\\carlot\\CarLotTests\\CarLotTests.csproj",
+      "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotTests\\CarLotTests.csproj",
       "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
-      "outputPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot - Copy\\carlot\\CarLotTests\\obj\\",
+      "outputPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jean\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8503,11 +8503,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Revature\\jean-code\\1-csharp\\New CarLot - Copy\\carlot\\CarLotDL\\CarLotDL.csproj": {
-              "projectPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot - Copy\\carlot\\CarLotDL\\CarLotDL.csproj"
+            "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotDL\\CarLotDL.csproj": {
+              "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotDL\\CarLotDL.csproj"
             },
-            "C:\\Revature\\jean-code\\1-csharp\\New CarLot - Copy\\carlot\\CarLotModels\\CarLotModels.csproj": {
-              "projectPath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot - Copy\\carlot\\CarLotModels\\CarLotModels.csproj"
+            "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotModels\\CarLotModels.csproj": {
+              "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotModels\\CarLotModels.csproj"
             }
           }
         }

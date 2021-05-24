@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1SjoY3QAWo4ZLDhmEZEaNyp1j5F7PCz9QyCCC4pVyBuRy2RDKnYnLqaqjoIunHlgIVwbuQZzkUUSbwFJ/YqzJA==",
+  "dgSpecHash": "CDLpLwQ43jbyrcZhRFYRBS48Iy9f7qsJCPpgJkjAYNLL1wjfFIV5nwCzj0svU4hJHyT7whafVT7Sx0r9JI7FXQ==",
   "success": true,
-  "projectFilePath": "C:\\Revature\\jean-code\\1-csharp\\New CarLot - Copy\\carlot\\CarLotBL\\CarLotBL.csproj",
+  "projectFilePath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotBL\\CarLotBL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jean\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Jean\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
