@@ -6,6 +6,7 @@ namespace CarLotDL.Entities
 {
     public partial class Customer
     {
+
         public Customer()
         {
             this.Id = Id;

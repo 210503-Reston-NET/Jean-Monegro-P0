@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotTests\\CarLotTests.csproj": {}
+    "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\carlottests\\CarLotTests.csproj": {}
   },
   "projects": {
     "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotDL\\CarLotDL.csproj": {
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotTests\\CarLotTests.csproj": {
+    "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\carlottests\\CarLotTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotTests\\CarLotTests.csproj",
+        "projectUniqueName": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\carlottests\\CarLotTests.csproj",
         "projectName": "CarLotTests",
-        "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotTests\\CarLotTests.csproj",
+        "projectPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\carlottests\\CarLotTests.csproj",
         "packagesPath": "C:\\Users\\Jean\\.nuget\\packages\\",
-        "outputPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\CarLotTests\\obj\\",
+        "outputPath": "C:\\Revature\\jean-code\\1-csharp\\Jean-Monegro-P0\\New CarLot\\carlot\\carlottests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jean\\AppData\\Roaming\\NuGet\\NuGet.Config",

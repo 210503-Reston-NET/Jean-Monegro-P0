@@ -14,15 +14,15 @@ namespace CarLotTests
 
         private readonly DbContextOptions<Entity.PracticeContext> options;
 
-        [Fact]
-        public void GetCarShouldReturnCar()
-        {
-            using (var context = new Entity.PracticeContext(options))
-            {
-                IRepository _repo = new RepoDB(context);
-                var cars = _repo.GetAllCars();
-            }
-        }
+        // [Fact]
+        // public void GetCarShouldReturnCar()
+        // {
+        //     using (var context = new Entity.PracticeContext(options))
+        //     {
+        //         IRepository _repo = new RepoDB(context);
+        //         var cars = _repo.GetAllCars();
+        //     }
+        // }
         // [Fact]
         // public void AddLocationShouldAddLocation()
         // {
@@ -36,37 +36,37 @@ namespace CarLotTests
         //     }
         //     using(var assertContext = new Entity.PracticeContext(options))
         // }
-        [Fact]
-        public void ModelShouldSetValidData()
-        {
-            string model = "Honda";
-            Car test = new Car();
+        // [Fact]
+        // public void ModelShouldSetValidData()
+        // {
+        //     string model = "Honda";
+        //     Car test = new Car();
 
-            test.Model = model;
+        //     test.Model = model;
 
-            Assert.Equal(model, test.Model);
-        }
-        [Theory]
-        [InlineData("2345678i")]
-        [InlineData("6756868i")]
-        public void ModelShouldNotSetInvalidData(string input)
-        {
-            Car test = new Car();
+        //     Assert.Equal(model, test.Model);
+        // }
+        // [Theory]
+        // [InlineData("2345678i")]
+        // [InlineData("6756868i")]
+        // public void ModelShouldNotSetInvalidData(string input)
+        // {
+        //     Car test = new Car();
 
-            Assert.Throws<Exception>(() => test.Model = input);
-        }
-        [Fact]
-        public void AddCarShouldAddCar()
-        {
-            using (var context = new Entity.PracticeContext(options))
-            {
-                IRepository _repo = new RepoDB(context);
-                //Act with a test context
-                _repo.AddCar
-                (
-                    new Model.Car("Scion", "tc", 2008)
-                );
-            }
-        }
+        //     Assert.Throws<Exception>(() => test.Model = input);
+        // }
+        // [Fact]
+        // public void AddCarShouldAddCar()
+        // {
+        //     using (var context = new Entity.PracticeContext(options))
+        //     {
+        //         IRepository _repo = new RepoDB(context);
+        //         //Act with a test context
+        //         _repo.AddCar
+        //         (
+        //             new Model.Car("Scion", "tc", 2008)
+        //         );
+        //     }
+        // }
     }
 }
